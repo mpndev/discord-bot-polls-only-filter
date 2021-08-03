@@ -1,11 +1,11 @@
-# discord-mute-voice-channel-bot
-Bot to mute everybody in a voice channel. 
+# discord-bot-polls-only-filter
+In combination with simple bot, rwstrict only polls to be used for given channel. 
 
 
 ## Setup
 
 ```
-yarn 
+yarn start
 export DISCORD_BOT_TOKEN=<use your discord bot token here>
 ```
 
@@ -14,8 +14,3 @@ export DISCORD_BOT_TOKEN=<use your discord bot token here>
 ```
 yarn start
 ```
-
-## Commands
-
-`/shutup`, `/vaymoodu`, `muteall`, `m` to mute server
-`/speakup`, `/vaythora`, `unmuteall`, `u` to unmute server

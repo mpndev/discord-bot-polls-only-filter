@@ -1,5 +1,5 @@
 # discord-bot-polls-only-filter
-In combination with simple bot, rwstrict only polls to be used for given channel. 
+In combination with simple bot, restricts only polls to be used for given channel. 
 
 
 ## Setup

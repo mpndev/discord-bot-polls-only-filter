@@ -5,7 +5,7 @@ In combination with simple bot, restricts only polls to be used for given channe
 ## Setup
 
 ```
-yarn start
+yarn install
 export DISCORD_BOT_TOKEN=<use your discord bot token here>
 ```
 
